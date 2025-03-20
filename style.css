@@ -1,0 +1,45 @@
+
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: aqua;
+}
+
+header {
+    background-color: rgb(226, 150, 9); /* Cor do fundo javascript - Dom */
+    padding: 6em;
+    text-align: center;
+    color: rgb(14, 1, 1); /* Cor do texto javascript - Dom */
+}
+
+#btnHomem, #btnMulher {
+    padding: 2em;
+    border: none;
+    color: rgb(12, 2, 2); /*Cor do texto Mulher Homem*/
+    font-size: 1em;
+    cursor: pointer;
+    margin: 1px;
+    border-radius: 5px;
+}
+
+#btnHomem {
+    background-color: rgb(10, 31, 223); /*Cor do fundo texto Homem*/
+}
+
+#btnMulher {
+    background-color: rgb(231, 86, 224);  /*Cor do fundo texto Mulher*/
+}
+
+.T2 {text-align: center;
+    
+    margin-top: 20px;
+}
+
+main {
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
